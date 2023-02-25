@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirillchistov and I have a special reason to be here
 - 👀 Interested in growth hacking and martech saas startups (not interested in dev job offers)
-- 🌱 Currently learning React JS and Python among other things just to be in broader context
+- 🌱 Currently learning some programming (like React, Python) to look savvy in tech context
 - 💞️ Looking to collaborate with adtech/martech startup teams as angel investor or otherwise
 - 📫 Reach me if you feel like networking... 
 
