@@ -8,4 +8,4 @@
 kirillchistov/kirillchistov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- in short 
+- [short bio in Russian](https://www.notion.so/iroiru/350222a6897e4eb888bd5c8e1b09408c)
