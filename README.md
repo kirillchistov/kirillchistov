@@ -1,7 +1,6 @@
-- 👋 Hi, pleased to meet you. I’m @kirillchistov and I a martech product 
-- 👀 Interested in growth hacking and martech saas startups (not interested in dev job offers)
-- 🌱 Currently learning some programming (like React, Python) to look savvy in tech context
-- 💞️ Looking to collaborate with adtech/martech startup teams as angel investor or otherwise
+- 👋 Hi, pleased to meet you. I’m a martech product & entrepreneur
+- 👀 interested in supporting martech saas startups at early growth stage as investor or co-founder
+- 🌱 here to develop programming and data analysis skills to look savvy in tech context
 - 📫 Reach me if you feel like networking... [Telegram](https://t.me/kirchistov) or [email](mailto:kchistov@gmail.com)
 
 <!---
